@@ -1,4 +1,11 @@
-### Hi there 👋
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rampart+One&size=40&pause=1000&color=AC0F0F&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=200&lines=Hi+there+%F0%9F%91%8B%2C;I'm+Francisco+Molina;Aka-DoctorCode;Front+End+Web+Development" alt="Typing SVG" />
+  </a>
+</p>
+<p align="center">
+  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif"/>
+</p>
+
 
 <!--
 **Aka-DoctorCode/aka-DoctorCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
