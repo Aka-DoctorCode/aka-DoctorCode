@@ -1,11 +1,11 @@
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rampart+One&size=40&pause=1000&color=AC0F0F&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=200&lines=Hi+there+%F0%9F%91%8B%2C;I'm+Francisco+Molina;Aka-DoctorCode;Front+End+Web+Development" alt="Typing SVG" />
-  </a>
+  <a href=<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rampart+One&size=40&pause=1000&color=29FF22&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=200&lines=Hi+there+%F0%9F%91%8B%2C;I'm+Francisco+Molina;Aka-DoctorCode;Front+End+Web+Development" alt="Typing SVG"></a>
 </p>
 <p align="center">
-  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif"/>
+<img src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif"/>
 </p>
-
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aka-DoctorCode&layout=compact&bg_color=000&theme=merko&hide_border&langs_count=10"
+</p>
 
 <!--
 **Aka-DoctorCode/aka-DoctorCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
